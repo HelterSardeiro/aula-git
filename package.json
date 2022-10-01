@@ -1,0 +1,8 @@
+{
+  "name": "aula-git",
+  "version": "1.0.0",
+  "description": "Aula Engenharia de Software",
+  "main": "index.js",
+  "author": "HelterSardeiro <sardeiro47@gmail.com>",
+  "license": "MIT"
+}
